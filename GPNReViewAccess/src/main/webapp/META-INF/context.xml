@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/ReViewAccessPoint">
+    <ResourceLink name="jdbc/PANGEA"
+                      global="jdbc/PANGEAmain"
+                      type="javax.sql.DataSource"/>
+</Context>
